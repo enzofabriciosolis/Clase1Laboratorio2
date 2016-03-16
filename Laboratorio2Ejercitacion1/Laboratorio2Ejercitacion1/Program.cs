@@ -9,6 +9,8 @@ namespace Laboratorio2Ejercitacion1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HolaMundo");
+            Console.ReadLine();
         }
     }
 }
